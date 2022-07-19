@@ -1,0 +1,28 @@
+01-01 Sundarban_Tour Picnic_there See_many_new See_real_tiger 
+02-01 Special_morning get_a_surprise Odd_thinking Wasting_time
+03-01 Weak_up_late miss_bus miss_class felling_so_boar
+04-01 Go_to_Khulna Visit_KUET Meet_with_friends Visit_Rupsha_Breez
+05-01 Go_to_Cinema_hall_at_first Shopping_with_friends Drink_special_tea Travel_whole_night
+06-01 Learn_Bike_driving Accident Parents_get_angry Hit_me_first
+07-01 Boaring_morning Lost_my_watch Can't_concentrate_any_work Rude_behave_with_brother 
+09-01 Feeling_excited First_plane_journey Forget_to_tie_seatbelt Memorable_day
+10-01 Feeling_sick Disappointed Spend_boaring_day Rude_behave_with_family_member
+11-01 Outing_tungipara Know_many_unknown See_Bangabandhu's_majar Capture_many_memories
+12-01 First_plane_journey Forget_to_tie_seatbelt So_scared Unforgottenable_journey
+13-01 Go_to_Khulna Visit_KUET Meet_with_friends Visit_Rupsha_Breez
+14-01 First_varsity_class Introduce_new_face Enjoyable_moments Memoreable_day
+15-01 First_tution Feeling_embarrassed Start_hostel_life Miss_my_family 
+16-01 Go_to_varsity_tour Enjoy_with_seniors Capture_many_memories See_sunset
+17-01 Visit_whole_varsity_area lunch_with_feiends Gossiping_many_times Spend_funny_moments
+19-01 feeling_excited Outing_with_friends Lunch_with_them Outing_whole_night
+20-01 Picnic_with_family Outing_Narail Spend_funny_moments A_great_day
+21-01 Feeling_excited Outing_for_home_without_brushing Mother_prepare_special_dish A_great_day
+22-01 Sundarban_Tour Picnic_there See_many_new See_real_tiger
+23-01 Boaring_morning Lost_my_watch Can't_concentrate_any_work Rude_behave_with_brother
+24-01 Weak_up_late miss_bus miss_class felling_so_boar
+25-01 Learn_Bike_driving Accident Parents_get_angry Hit_me_first
+26-01 Outing_tungipara Know_many_unknown See_Bangabandhu's_majar Capture_many_memories
+29-01 First_plane_journey Forget_to_tie_seatbelt So_scared Unforgottenable_journey
+30-01 Sundarban_Tour Picnic Enjoyable_Journey See_real_tiger
+31-01 Come_back_campus Miss_my_family Feeling_sad 
+
